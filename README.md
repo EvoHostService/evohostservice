@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on **Ecommerce**
 
+- 🌱 I’m currently learning **Python, MongoDB**
+
+- 💬 Ask me about **HTML, CSS, React, JavaScript**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/evohostservice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evohostservice" height="30" width="40" /></a>
